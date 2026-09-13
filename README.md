@@ -5,7 +5,7 @@ A clean, minimalist C99 &amp; Whiptail TUI for building custom Arch Linux deskto
 
 A lightweight, clean, and minimalist TUI (Text User Interface) built in C99 to assemble custom Arch Linux environments from scratch.
 
-![Preview](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/preview.png)
+<img width="884" height="567" alt="image" src="https://github.com/user-attachments/assets/f360bba0-4132-4dfc-ab8e-60d16601dc9c" />
 
 ## Features
 
