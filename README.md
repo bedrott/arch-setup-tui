@@ -43,5 +43,5 @@ git clone [https://github.com/bedrott/arch-setup-tui.git](https://github.com/bed
 cd arch-setup-tui
 ```
 ```
-gcc -std=c99 archsetuptui.c -o installer
+gcc -std=c99 archsetuptui.c -o archsetuptui
 ```
