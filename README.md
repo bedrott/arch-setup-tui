@@ -45,3 +45,10 @@ cd arch-setup-tui
 ```
 gcc -std=c99 archsetuptui.c -o archsetuptui
 ```
+## Execution
+
+Run the binary with root privileges to allow pacman execution:
+Bash
+```
+sudo ./archsetuptui
+```
