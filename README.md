@@ -31,3 +31,17 @@ Ensure `gcc` and `whiptail` (usually provided by `libnewt`) are installed:
 
 ```bash
 sudo pacman -S gcc libnewt
+```
+### Compilation
+
+Clone the repository and compile with standard C99:
+
+```bash
+git clone [https://github.com/bedrott/arch-setup-tui.git](https://github.com/bedrott/arch-setup-tui.git)
+```
+```
+cd arch-setup-tui
+```
+```
+gcc -std=c99 archsetuptui.c -o installer
+```
