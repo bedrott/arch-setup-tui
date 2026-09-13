@@ -1,4 +1,4 @@
-# Arch Rice Builder
+# Arch Setup Tui
 
 A lightweight, clean, and minimalist TUI (Text User Interface) built in C99 to assemble custom Arch Linux environments from scratch.
 
